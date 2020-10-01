@@ -1,4 +1,4 @@
-###Selective solution to###
+###Selective solution to fundamentals###
 ##Data Structures and Algorithms with Object-Oriented Design Patterns in Python##
 
 It is a [web book](http://www.brpreiss.com/books/opus7/html/book.html) teaching implementation of 
